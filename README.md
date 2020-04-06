@@ -1,7 +1,9 @@
 # Jeu-du-Pendu
+
 Le jeu du pendu crée en langage C
 Au debut du jeu tu dois choisir un niveau de difficulté
 Ensuit tu donne un mot secret , que l'autre joueur doit tenter de le savoir en donnant des lettres , mais il a seulement 15 tentatives , sinon il est pendu !
+
 ------
 The Hangman Game Created in C Language
 At the start of the game you have to choose a difficulty level
